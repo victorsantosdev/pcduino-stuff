@@ -1,0 +1,17 @@
+deb http://ports.ubuntu.com/ubuntu-ports/ precise main universe
+deb-src http://ports.ubuntu.com/ubuntu-ports/ precise main universe
+deb http://ports.ubuntu.com/ubuntu-ports/ precise-security main universe
+deb-src http://ports.ubuntu.com/ubuntu-ports/ precise-security main universe
+deb http://ports.ubuntu.com/ubuntu-ports/ precise-updates main universe
+deb-src http://ports.ubuntu.com/ubuntu-ports/ precise-updates main universe
+#server down
+#deb http://www.wiimu.com:8020/pcduino/ pcduino main
+#deb-src http://www.wiimu.com:8020/pcduino/ pcduino main
+
+#temporary fix
+#deb http://120.26.48.219/pcduino3/ pcduino main
+#deb-src http://120.26.48.219/pcduino3/ pcduino main
+
+#update december 2015
+deb http://ubuntu.pcduino.com/pcduino3/ pcduino main
+deb-src http://ubuntu.pcduino.com/pcduino3/ pcduino main
